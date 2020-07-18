@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/raink1208/changeKnockBack
+build-by-default: true
+branches:
+- master
+projects:
+  changeKnockBack:
+    path: ""
+...
